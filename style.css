@@ -7,18 +7,19 @@ body {
 .nav {
     margin: 0px 0px 25px 0px;
     width: 100%;
-    height: 50px;
+    height: 60px;
     background-color: white;
     text-align: right;
 }
 
 a {
     border: 1px solid gray;
-    padding: 20px;
+    padding: 15px;
     margin: 15px;
-    border-radius: 2px;
+    border-radius: 5px;
     background-color: green;
     color: white;
+    text-decoration: none;
 }
 
 #main-content {
@@ -26,8 +27,9 @@ a {
     padding: 20px;
     width: 30%;
     border: 1px solid grey;
-    border-radius: 1px;
+    border-radius: 2px;
     background-color: white;
+    box-shadow: 5px 5px 5px gray;
 }
 
 h1 {
